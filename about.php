@@ -1,23 +1,8 @@
 <?php include('./components/header.php');?>
 
     <section class="bg-dark text-light header-inner p-0 jarallax o-hidden" data-overlay data-jarallax data-speed="0.2">
-      <img src="assets/img/inner-1.jpg" alt="Image" class="jarallax-img opacity-30">
+      <img src="https://i.imgur.com/gzapt0i.jpg" alt="Image" class="jarallax-img opacity-30">
       <div class="container py-0 layer-2">
-        <div class="row my-3">
-          <div class="col">
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item">
-                  <a href="index-2.html">Home</a>
-                </li>
-                <li class="breadcrumb-item">
-                  <a href="#">Pages</a>
-                </li>
-                <li class="breadcrumb-item active" aria-current="page">Current Page</li>
-              </ol>
-            </nav>
-          </div>
-        </div>
         <div class="row my-4 my-md-6" data-aos="fade-up">
           <div class="col-lg-9 col-xl-8">
             <h1 class="display-4">About Us</h1>

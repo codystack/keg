@@ -1,9 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-  
-<!-- Mirrored from leap.mediumra.re/blog-cards.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Jun 2020 08:02:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
