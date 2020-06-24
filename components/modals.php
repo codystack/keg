@@ -18,11 +18,11 @@
                           <div class="form-row">
                             <div class="col-12">
                               <div class=" d-flex flex-wrap loogin justify-content-center">
-                              <a href="./auth/dispatch/login" target="_blank" class="mx-2 btn btn-primary mb-3">
+                              <a href="./auth/dispatch" target="_blank" class="mx-2 btn btn-primary mb-3">
                                 <span>Dispatcher Login</span>
                                 <img class="icon" src="assets/img/icons/theme/navigation/sign-in.svg" alt="decoration" data-inject-svg />
                               </a>
-                              <a href="./auth/user/login" target="_blank" class="mx-2 btn btn-primary mb-3">
+                              <a href="./auth/user" target="_blank" class="mx-2 btn btn-primary mb-3">
                                 <span>User Login</span>
                                 <img class="icon" src="assets/img/icons/theme/navigation/sign-in.svg" alt="decoration" data-inject-svg />
                               </a>

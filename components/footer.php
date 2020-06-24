@@ -43,21 +43,20 @@
               <li class="mb-3 d-flex">
                 <img class="icon" src="assets/img/icons/theme/map/marker-1.svg" alt="marker-1 icon" data-inject-svg />
                 <div class="ml-3">
-                  <span>348 Greenpoint Avenue
-                    <br />Brooklyn, NY</span>
+                  <span>Chevron Lekki,
+                  <br />Lagos, Nigeria.</span>
                 </div>
               </li>
               <li class="mb-3 d-flex">
                 <img class="icon" src="assets/img/icons/theme/communication/call-1.svg" alt="call-1 icon" data-inject-svg />
                 <div class="ml-3">
-                  <span>+61 3928 3324</span>
-                  <span class="d-block text-muted text-small">Mon - Fri 9am - 5pm</span>
+                  <span>+234(0)803 209 0933</span>
                 </div>
               </li>
               <li class="mb-3 d-flex">
                 <img class="icon" src="assets/img/icons/theme/communication/mail.svg" alt="mail icon" data-inject-svg />
                 <div class="ml-3">
-                  <a href="#">hello@company.io</a>
+                  <a href="mailto: hello@keg.ng">hello@keg.ng</a>
                 </div>
               </li>
             </ul>
