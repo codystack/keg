@@ -98,15 +98,14 @@
                 </li>
                 <li class="nav-item">
                   <div data-target="#login-modal" data-toggle="modal">
-                  <a href="#" class="nav-link"><img class="icon bg-dark style="height: 22px;" src="assets/img/icons/theme/general/user.svg" alt="decoration" data-inject-svg />Log in</a>
+                  <a href="#" class="nav-link"><img class="icon bg-dark" style="height: 22px;" src="assets/img/icons/theme/general/user.svg" alt="decoration" data-inject-svg />Log in</a>
                   </div>
                 </li>
               </ul>
             </div>
-          </div>
-          <div data-target="#signup-modal" data-toggle="modal">
+            <div data-target="#signup-modal" data-toggle="modal">
             <a href="#" class="btn btn-index-signup ml-lg-3">Sign up</a>
-
+            </div>
           </div>
         </div>
       </nav>
