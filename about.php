@@ -105,31 +105,10 @@
               <span>Experience Designer</span>
             </div>
           </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/male-4.jpg" alt="Marco Schneider" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Marco Schneider</h5>
-              <span>Experience Designer</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/female-4.jpg" alt="Helena Price" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Helena Price</h5>
-              <span>Marketing</span>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="NaN">
-            <div class="card card-lg card-body align-items-center">
-              <img src="assets/img/avatars/male-5.jpg" alt="Kenneth O'Dowd" class="avatar avatar-xlg mb-3">
-              <h5 class="mb-0">Kenneth O'Dowd</h5>
-              <span>Strategy</span>
-            </div>
-          </div>
         </div>
         <div class="row">
           <div class="col">
-            <span>Interested in joining our team? <a href="#">View career openings</a>
+            <span>Interested in joining our team? <a href="careers">View career openings</a>
             </span>
           </div>
         </div>

@@ -79,3 +79,57 @@
               </div>
             </div>
           <!-- Sign up Modal End -->
+
+
+          <!-- Career Modal Start -->
+          <div class="m-1">
+              <div class="modal fade" id="career-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-body">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <img class="icon bg-dark" src="assets/img/icons/interface/cross.svg" alt="cross interface icon" data-inject-svg />
+                      </button>
+                      <div class="m-xl-4 m-3">
+                        <div class="icon-round icon-round-lg bg-primary mx-auto mb-4">
+                          <img class="icon bg-dark" src="assets/img/icons/theme/communication/write.svg" alt="decoration" data-inject-svg />
+                        </div>
+                        <div class="text-center mb-4">
+                          <h4 class="h3 mb-1">Apply for future opening</h4>
+                          <span>Jumpstart your application</span>
+                        </div>
+                        <form>
+                        <div class="form-group">
+                            <input type="text" name="resume-first-name" placeholder="First Name" class="form-control">
+                          </div>
+                          <div class="form-group">
+                            <input type="text " name="resume-last-name" placeholder="Last Name" class="form-control">
+                          </div>
+                          <div class="form-group">
+                            <input type="email" name="resume-email" placeholder="Email Address" class="form-control">
+                          </div>
+                          <div class="form-group">
+                            <input type="tel" name="resume-tel" placeholder="Phone Number" class="form-control">
+                          </div>
+                          <div class="custom-file mb-2">
+                            <input type="file" class="custom-file-input" id="remuse-upload" required>
+                            <label class="custom-file-label" for="validatedCustomFile">Upload Resumé...</label>
+                          </div>
+                          <div class="form-group">
+                            <button class="btn-block btn btn-primary" type="submit">Submit Resumé</button>
+                          </div>
+                          <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="signup-agree">
+                            <label class="custom-control-label text-small text-muted" for="signup-agree">I agree to the <a href="#">Terms &amp;
+        Conditions</a>
+                            </label>
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            <!-- Career Modal End -->

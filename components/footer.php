@@ -175,11 +175,17 @@
     <script type="text/javascript" src="assets/js/typed.min.js"></script>
     <!-- Required theme scripts (Do not remove) -->
     <script type="text/javascript" src="assets/js/theme.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bs-custom-file-input/dist/bs-custom-file-input.min.js"></script>
 
     <script type="text/javascript">
       // This script appears only in the demo - it disables forms with no action attribute to prevent 
       // navigating away from the page.
       jQuery("form:not([action])").on('submit', function(){return false;});
+    </script>
+    <script>
+      $(document).ready(function () {
+        bsCustomFileInput.init()
+      })
     </script>
 
   </body>
