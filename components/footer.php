@@ -1,22 +1,6 @@
 <footer class="pb-4 bg-primary-3 text-light" id="footer">
       <div class="container">
         <div class="row mb-5">
-          <div class="col">
-            <div class="card card-body border-0 o-hidden mb-0 bg-primary text-light">
-              <div class="position-relative d-flex flex-column flex-md-row justify-content-between align-items-center">
-                <div class="h3 text-center mb-md-0">Start building beautiful websites</div>
-                <a href="https://themes.getbootstrap.com/product/leap-multipurpose-bootstrap-theme/" class="btn btn-lg btn-white">
-      Purchase Now
-    </a>
-              </div>
-              <div class="decoration layer-0">
-                <img class="bg-primary-2" src="assets/img/decorations/deco-blob-1.svg" alt="deco-blob-1 decoration" data-inject-svg />
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="row mb-5">
           <div class="col-6 col-lg-3 col-xl-2">
             <h5>Navigate</h5>
             <ul class="nav flex-column">
@@ -123,7 +107,7 @@
         </div>
         <div class="row justify-content-center">
           <div class="col col-md-auto text-center">
-            <small class="text-muted">&copy; <script>document.write(new Date().getFullYear());</script> Keg Technologies Inc. <a href="privacy">Privacy Policy</a> and <a href="terms">Terms of Service.</a>
+            <small class="text-muted">&copy; <script>document.write(new Date().getFullYear());</script> KEG Technologies Inc. <a href="privacy">Privacy Policy</a> and <a href="terms">Terms of Service.</a>
             </small>
           </div>
         </div>
