@@ -4,24 +4,16 @@
       <div class="container border-bottom">
         <div class="row align-items-center justify-content-between">
           <div class="col-lg-6 col-xl-5 text-center px-md-6 px-lg-0">
-            <h1 class="display-4">An attractive landing for your mobile app.</h1>
+            <h1 class="display-4">Get Fuel or Diesel on Credit</h1>
             <p class="lead">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.
+              Pay for your fuel or diesel on credit from KEG without your ATM card.
             </p>
-            <a href="#" class="btn btn-primary btn-lg mt-3">Download the App</a>
-            <div class="d-flex justify-content-center mt-2">
-              <a data-fancybox href="https://vimeo.com/40842620" class="d-flex align-items-center">
-                <span class="btn btn-primary btn-round btn-sm">
-                  <img class="icon" src="assets/img/icons/theme/media/play.svg" alt="play icon" data-inject-svg />
-                </span>
-                <span class="text-small ml-2">Watch the video</span>
-              </a>
-            </div>
+            <a href="#download" class="btn btn-primary btn-lg mt-3">Download the App</a>
           </div>
           <div class="col-lg-6">
             <div class="row justify-content-center">
               <div class="col-lg-12 col-8 mt-4 mt-lg-0">
-                <img src="assets/img/mobile-app-1.jpg" alt="Image" data-aos="fade-left">
+                <img src="https://i.imgur.com/e1xvgvE.gif" alt="Image" data-aos="fade-left">
               </div>
             </div>
           </div>
@@ -321,7 +313,7 @@
       </div>
     </section>
     <section>
-      <div class="container">
+      <div class="container" id="download">
         <div class="row justify-content-center text-center" data-aos="fade-up">
           <div class="col-lg-6 col-md-8">
             <h3 class="display-4">Download it now.</h3>
