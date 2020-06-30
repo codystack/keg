@@ -142,7 +142,7 @@
               </div>
             </div>
             <div class="list-group list-group-flush">
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="frontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">React JS/Native Developer</h5>
                 </div>
@@ -153,7 +153,7 @@
                   <span>Lagos, Nigeria</span>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="frontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">Frontend Developer</h5>
                 </div>
@@ -164,7 +164,7 @@
                   <span>Lagos, Nigeria</span>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="./careerfrontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">UX Designer</h5>
                 </div>
@@ -175,7 +175,7 @@
                   <span>Lagos, Nigeria</span>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="frontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">Principal Product Designer</h5>
                 </div>
@@ -186,7 +186,7 @@
                   <span>Lagos, Nigeria</span>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="frontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">Product Marketer</h5>
                 </div>
@@ -197,7 +197,7 @@
                   <span>Lagos, Nigeria</span>
                 </div>
               </a>
-              <a href="#" class="list-group-item list-group-item-action row no-gutters py-3">
+              <a href="frontend-dev" class="list-group-item list-group-item-action row no-gutters py-3">
                 <div class="col-xl-8 col-lg-7 col-md-6">
                   <h5 class="mb-0">Marketing Operations Manager</h5>
                 </div>

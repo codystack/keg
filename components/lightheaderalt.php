@@ -68,7 +68,7 @@
                           <a href="about" class="dropdown-item fade-page">About us</a>
                           <a href="how-it-works" class="dropdown-item">How it works</a>
                           <a href="careers" class="dropdown-item">Careers</a>
-                          <a href="careers" class="dropdown-item">Stories</a>
+                          <a href="stories" class="dropdown-item">Stories</a>
                           <a href="blog" class="dropdown-item">Blog</a>
                       </div>
                     </div>
