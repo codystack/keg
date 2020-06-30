@@ -80,7 +80,7 @@
                   <a href="help" class="nav-link">Help</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a href="corona-virus" class="nav-link">COVID-19 resources</a>
+                  <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public?uclick_id=9e8ccaed-7952-4893-adee-0e4823365eef" target="_blank" class="nav-link">COVID-19 resources</a>
                 </li>
               </ul>
             </div>

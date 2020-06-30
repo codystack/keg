@@ -62,7 +62,7 @@
                   </div>
                   <div data-recaptcha data-sitekey="6Lemz4gUAAAAAElq4ZHFBzI7j8QUiYMn9I0mzQWG" data-size="invisible" data-badge="bottomleft">
                   </div>
-                  <button type="submit" class="btn btn-primary btn-loading btn-block" data-loading-text="Sending">
+                  <button type="submit" class="btn btn-primarynew btn-loading btn-block" data-loading-text="Sending">
                     <img class="icon" src="assets/img/icons/theme/code/loading.svg" alt="loading icon" data-inject-svg />
                     <span>Subscribe</span>
                   </button>
